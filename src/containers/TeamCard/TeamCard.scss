@@ -1,0 +1,46 @@
+.teamcard{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-bottom: 70px;
+	flex-direction: column;
+
+
+	&__title{
+		font-size: 30px;
+		font-weight: 600;
+		color: #02298A;
+		letter-spacing: -0.5px;
+		margin-bottom: 15px;
+		text-align: center;
+		@media only screen and(max-width:576px){
+			font-size: 27px !important;
+		}
+	}
+
+	&__text{
+		color: #888888;
+		font-size: 18px;
+		letter-spacing: -0.5px;
+		width: 54%;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		line-height: 30px;
+		margin-bottom: 50px;
+		@media only screen and(max-width:576px){
+			font-size: 16px !important;
+			width: 100% !important;
+		}
+		
+	}
+
+	
+	.team-cards{
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		transition: all ease .5s;
+	}
+	
+}

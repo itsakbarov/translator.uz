@@ -1,0 +1,66 @@
+.herobgk {
+	background: url(../../assets/images/bread-bg.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 150px;
+	padding-bottom: 100px;
+	position: relative;
+	z-index: 4;
+	margin-bottom: 120px;
+
+	&.mbb-mbb{
+		margin-bottom: 0px !important;
+	}
+	.bgk-collor {
+		position: absolute !important;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		right: 0;
+		z-index: 2;
+		background: rgb(23 52 195 / 70%);
+	}
+
+	&__title{
+		position: relative;
+		font-size: 42px;
+		color: #fff;
+		font-weight: 500;
+		text-align: center;
+		z-index: 5;
+		margin-bottom: 30px;
+	}
+
+	&-link{
+		display: flex;
+		align-items: center;
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		z-index: 5;
+		width: 190px;
+		&.widht{
+			width: 120px !important;
+		}
+		&__item{
+			font-size: 13px;
+			text-transform: uppercase;
+			color: #fff;
+			font-weight: 500;
+			padding: 10px 15px;
+			text-decoration: none;
+			&:nth-of-type(1){
+				position: relative;
+				&::before{
+					display: inline-block;
+					color: #6c757d;
+					content: "/";
+					right: 0;
+					position: absolute;
+				}
+			}
+		}
+	}
+
+}

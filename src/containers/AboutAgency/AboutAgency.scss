@@ -1,0 +1,135 @@
+.about-campany{
+	padding-bottom: 100px;
+	position: relative;
+	&::after{
+		content: "";
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		z-index: -5;
+		background: url(../../assets/images/dot-bg.jpeg);
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		@media only screen and(max-width:576px){
+			display: none !important;
+			
+		}
+	}
+	@media only screen and(max-width:576px){
+		padding-bottom: 30px;
+	}
+	&-inner{
+		display: flex;
+		align-items: center;
+		@media only screen and(max-width:576px){
+			flex-direction: column !important;
+		}
+
+		&-left{
+			padding-left: 40px;
+			position: relative;
+			margin-right: 50px;
+			transition: all ease .4s;
+			@media only screen and(max-width:576px){
+				width: 100%;
+				margin-right: 0 !important;
+				padding-left: 0 !important;
+				margin-bottom: 30px !important;
+			}
+			&::before{
+				content: "";
+				position: absolute;
+				left: 0;
+				top: 40px;
+				width: 500px;
+				height: 480px;
+				border: 10px solid #0177E8;
+				z-index: -2;
+				@media only screen and(max-width:576px){
+					display: none !important;
+				}
+			}
+			&__img{
+				width: 500px;
+				height: 560px;
+				user-select: none;
+				@media only screen and(max-width:576px){
+					width: 100%;
+					height: auto;
+				}
+			}
+		}
+
+		&-right{
+			transition: all ease .4s;
+			&__suptitle{
+				font-size: 16px;
+				font-weight: 600;
+				color: #01A2E8;
+				margin-bottom: 15px;
+				@media only screen and(max-width:576px){
+					font-size: 14px !important;
+				}
+			}
+			&__title{
+				font-size: 30px;
+				font-weight: 600;
+				color: #02298A;
+				letter-spacing: -0.5px;
+				margin-bottom: 20px;
+				@media only screen and(max-width:576px){
+					font-size: 25px !important;
+					width: 100% !important;
+				}
+			}
+			&__subtitle{
+				color: #000;
+				font-size: 16px;
+				letter-spacing: -0.5px;
+				margin-bottom: 15px;
+				@media only screen and(max-width:576px){
+					font-size: 14px !important;
+					margin-bottom: 30px;
+
+				}
+			}
+
+			&-toptext{
+				margin-bottom: 10px;
+				padding-left: 20px;
+				&__text{
+					font-size: 15px;
+					font-weight: 500;
+					color: rgb(110, 109, 109);
+					margin-bottom: 2px;
+				}
+			}
+			
+			&-resp{
+				&__title{
+					font-size: 26px;
+					font-weight: 600;
+					letter-spacing: 0.4px;
+					color: #02298A;
+				}
+				&__subtitle{
+					color: #000;
+				font-size: 16px;
+				letter-spacing: -0.5px;
+				margin-bottom: 15px;
+				}
+				&__text{
+					font-size: 15px;
+					font-weight: 500;
+					color: rgb(110, 109, 109);
+					margin-bottom: 2px;
+					padding-left: 20px;
+				}
+			}
+		}
+
+
+	}
+}

@@ -1,0 +1,208 @@
+{
+  "sidebar": {
+    "home": "Home",
+    "about_us": "About",
+    "services": "Services",
+    "contacts": "Contact",
+    "contacts_us": "Contact Us",
+    "team": "Team",
+    "call_us": "Call Us: +998935805259",
+    "copyright": "Copyright 2021. All Rights Reserved "
+  },
+  "hero":{
+    "suptitle" : "Professional Translators Agency ",
+    "title": "We create connections across the world",
+    "subtitle": {
+      "1": "Translators.uz ",
+      "2": " is a translation agency offering translators and guide services throughout",
+      "3": " Uzbekistan, ",
+      "4": "and working with the most common languages."
+    },
+    "contact_btn": "CONTACT US",
+    "learn_btn": "LEARN MORE"
+  },
+  "agency": {
+    "suptitle" : "High Professional Translators Agency", 
+     "text": "What events do we provide translators for?",
+     "subtitle": "We provide translators for events of any level of complexity and responsibility?",
+    "0": {
+      "1" : "  • accompaniment of official delegations;",
+      "2":"  • press conferences and briefings;",
+      "3":"  • exhibitions, presentations, seminars and trainings;",
+      "4":" • business negotiations;",
+      "5":" • excursions and accompanying guests around the city;",
+      "6":" • meeting at the airport and accompaniment to the hotel."
+    },
+    "levels" : "Responsibility levels",
+    "prelevels": "Depending on the qualifications of the translator, interpretation is divided into :",
+        "1": {
+      "1" : "• basic (private negotiations) - professional translator (experience from 1 year);",
+      "2":" • business (business negotiations) - an experienced translator (experience from 2-3 years);",
+      "3":"• premium (public speaking) - premium translator (experience from 5-7 years in front of a large audience and cameras).",
+      "4":"The cost also depends on the responsibility of interpretation and the qualifications of the translator.",
+      "5":"The translator's transport time is also paid. The minimum order is 4 hours. Time over 8 hours a day is charged with a surcharge."
+    }
+  },
+  "languages" : {
+    "suptitle" : "Professional Languages Translation",
+    "title" : "Languages We Cover",
+    "subtitle" : "lorem lorem lorem lorem",
+    "get" : "Get Quote",
+      "1": {
+            "title": "English Languages",
+            "text": "Iterative approaches to corporate strategy foster collaborative thinkin"
+        },
+        "2": {
+            "title": "German Languages",
+            "text": "Iterative approaches to corporate strategy foster collaborative thinkin"
+        },
+        "3": {
+            "title": "French Languages",
+            "text": " Iterative approaches to corporate strategy foster collaborative thinkin"
+        },
+        "4": {
+            "title": "Spanish Languages",
+            "text": "   Iterative approaches to corporate strategy foster collaborative thinking"
+        },
+        "5": {
+            "title": "Swedish Languages",
+            "text": "Iterative approaches to corporate strategy foster collaborative thinkin" },
+        "6": {
+            "title": "Japanese Languages",
+            "text": " Iterative approaches to corporate strategy foster collaborative thinkin"
+        }
+  },
+  "services" : {
+    "title" : "OUR SERVICES",
+    "core" : "Our Core Services",
+    "subtitle" : "Translation agency Translators.uz offers the following types of interpreting :",
+   "linkText" : "Ordering", 
+    "1" : {
+      "title" : "Simultaneous Interpreting",
+      "text" : "Simultaneous interpreting is a mode of interpreting in which the speaker makes a speech and the interpreter reformulates the speech into a language his audience understands at the same time (or simultaneously)."
+    },
+    "2" : {
+      "title" : "Consecutive Interpreting",
+      "text" : "Consecutive interpreting is a mode of interpreting in which the speaker makes a speech (or says a few sentences) whilst the interpreter takes notes. The interpreter then reproduces what the speaker has said for the audience."
+    },
+    "3" : {
+      "title" : "Guide /Travel Interpreting",
+      "text" : "Guide/ travel Interpreting Interpreters in tourist destinations will be able to provide international travelers with education and a deeper understanding of the places they visit. Being familiar with the culture of travelers also offers a more personal connection to the places they visit."
+    },
+    "4" : {
+      "title" : "Whisper Interpreting",
+      "text" : "Whisper interpreting (also known as chuchotage) is used when a full audio setup for simultaneous interpreting is not available, and the interpreter listens to the presenter by ear, and then whispers the translation to an attendee, so that their voice does not impact the presentation."
+    },
+    "5" : {
+      "title" : "Scheduled Telephone Interpreting",
+      "text" : "Over-the-phone interpreting (OPI) is a service that falls under the Remote Interpreting Services that some translation and interpretation companies offer to different organizations. Instead of interpreting face-to-face, a phone interpreter, as the term implies, is available to provide language services over the phone. The interpreter may be in another room in the same building or any location."
+    }
+  },
+  "copyright" : "All Rights Reserved" ,
+  "team" : {
+    "title" : "Our Awesome Team",
+    "subtitle" : "Helping you to speak to the world",
+    "1" : {
+      "name" : "Planonchiyev Pstonchii",
+      "position" : "Professional Translators"
+    },
+    "2" : {
+      "name" : "Planonchiyev Pstonchi",
+      "position" : "Professional Translators"
+    },
+    "3" : {
+      "name" : "Planonchiyev Pstonchi",
+      "position" : "Professional Translators"
+    },
+    "4" : {
+      "name" : "Planonchiyev Pstonchi",
+      "position" : "Professional Translators"
+    },
+    "5" : {
+      "name" : "Planonchiyev Pstonchi",
+      "position" : "Professional Translators"
+    },
+    "6" : {
+      "name" : "Planonchiyev Pstonchi",
+      "position" : "Professional Translators"
+    }
+  },
+  "uzbekistan" : {
+    "title" : "A bit about Uzbekistan from Wikipedia",
+    "1" : {
+       "a" : "Official language :",
+       "b" : "Uzbek"
+    } ,
+    "2" : {
+       "a" : "Inter-ethnic language :  :",
+       "b" : "Russian"
+    },
+    "3" : {
+      "0" : "Religion",
+      "a" : "88% Muslims",
+      "b" : "9% Christians",
+      "c" : "0.1% Zoroastrian",
+      "d" : "1.0% Non-religious and others"
+    },
+    "4" : {
+      "a" : "President",
+      "b" : "Shavkat Mirziyoyev"
+      }   ,
+    "5" : {
+      "a" : "Prime Minister",
+      "b" : "Abdulla Aripov"
+      }  ,
+    "6" : {
+      "a" : "Total Area",
+      "b" : "448 978 км² (173,351 sq mi)"
+      }  ,
+    "7" : {
+      "a" : "Population",
+      "b" : "2020 estimate 34,588,900"
+      },
+    "8" : {
+      "a" : "Currency ",
+      "b" : "Uzbek som"
+      },
+    "9" : {
+      "a" : "Time zone ",
+      "b" : "UTC+5"
+      },
+    "10" : {
+      "a" : "Driving side ",
+      "b" : "Right"
+      },
+    "11" : {
+      "a" : "Calling code ",
+      "b" : "+998"
+      }  
+  },
+  "banner" : {
+    "suptitle": "Our Translation Professional Agency",
+    "title" : "Let’s create something new and exciting together" ,
+    "subtitle" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum ad, ipsam labore. Sunt iste a velit officia aperiam quod inventore sit amet, consectetur adipisicing elit. Ipsum ad.",
+    "1" : "Excellent quality",
+    "2" : "Professional Team",
+    "3" : "Competitive Prices",
+    "4" : "24/7 Expert Support"
+  },
+  "teamPage" : {
+    "title" : "Join our Translators Community",
+    "subtitle" : "If you are a professional translator, we invite you to join our team.",
+    "btn" : "Join Us",
+    "apply" : "How To Apply",
+    "applyBtn" : "Join As a Talent",
+    "1" : "Take the online exam",
+    "2" : "Get reviewed by our staff",
+    "3" : "Receive certification",
+    "4" : "Start working & get rated",
+    "5" : "Get bigger projects"
+  },
+  "contact" : {
+    "title" : "  Reach out to us for any inquiry",
+    "location" : "Location",
+    "location_name" : "Zarkent Drive 3, Tashkent, Uzbekistan",
+    "mail" : "Email",
+    "phone" : "Phone"
+  }
+}
